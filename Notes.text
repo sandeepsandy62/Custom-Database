@@ -1,0 +1,5 @@
+clang++ -std=c++11 main.cpp -o mydatabase
+./mydatabase
+
+https://www.cplusplus.com/img/iostream.gif
+https://stackoverflow.com/questions/67631098/what-is-the-difference-between-ifstream-ofstream-and-fstream
